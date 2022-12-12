@@ -239,3 +239,18 @@ git status
 exit
 git pull origin main
 git diff
+git status
+git push origin main
+git status
+git add .
+git commit -m "test"
+git push -u origin main
+git remote -v
+ls
+cd ~/.ssh/
+ls
+rm known_hosts
+ls
+cd /$HOME
+ls
+exit
