@@ -199,3 +199,43 @@ git commit -m "baru di add"
 git push origin main
 git status
 git log
+ls
+rm aba
+rm aba.pub
+ls
+cd ./~ssh/
+cd ~/.ssh/
+ls
+rm authorized_keys
+ls
+rm gittestnew
+ls
+rm gittestnew.pub
+ls
+rm known_hosts
+ls
+rm known_hosts.old
+ls
+rm telpon
+rm -r telpon
+ls
+cd /$HOME
+git status
+git add .
+git commit -m "data di ssh sudah di hapus semua"
+git status
+git push origin main
+git status
+git add .
+git status
+ls
+git status
+ls
+cd ~/.ssh/
+ls
+rm known_hosts
+ls
+git status
+exit
+git pull origin main
+git diff
