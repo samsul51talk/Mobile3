@@ -178,3 +178,13 @@ git add .
 git pull origin main
 git push origin main
 exit
+git status
+ls
+git add aba
+git branch -M main
+git commit -m "ada perubhana"
+git add .
+git commit -m "ada perubhana"
+git push origin main
+git status
+git log
