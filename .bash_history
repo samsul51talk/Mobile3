@@ -188,3 +188,14 @@ git commit -m "ada perubhana"
 git push origin main
 git status
 git log
+git status
+ls
+clear
+ls
+git add aba
+git add 
+git add .
+git commit -m "baru di add"
+git push origin main
+git status
+git log
