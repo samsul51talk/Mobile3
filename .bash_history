@@ -106,3 +106,75 @@ git add .
 git commit -m "ada perubahan"
 git push origin main
 exit
+git status
+git config --global user.email samsul51talk@gmail.com
+git config --global user.name samsul51talk
+echo "# Gittestnew" >> isifile.md
+git init
+git add isifile.md
+git commit -m "coment file pertama"
+git branch -M main
+git remote set-url git@github.com:samsul51talk/Gittestnew.git
+git remote set-url origin git@github.com:samsul51talk/Gittestnew.git
+git push -u origin main
+git status
+git push origin main
+git status
+ls
+git add .
+git push -u origin main
+ssh-add acun
+~/.cd/ssh/
+cd ~/.ssh/
+ssh-add acun
+git remote -v
+git add isifile.md
+cd/$HOME
+ssh-add acun
+git --version
+git status
+git add .
+git push origin main
+git status
+git restore --staged .bash_history
+git add isifile.md
+git status
+git commit -m "belum update"
+git status
+git push origin main
+ssh-add -l
+ssh-keygen
+ls
+ssh-agent /bin/bash
+ls
+cd telpon
+ls
+cd /$HOME
+ls
+git rm acun
+ls
+git rm acun.pub
+ls
+git rm isifile.md
+ls
+cd /.ssh/
+ls
+cd /.~ssh/
+cd ./~ssh/
+ssh-keygen
+cat aba.pub
+git add .
+git pull origin main
+git status
+git commit -m "ada perubahan 3"
+git pull origin master
+git push origin master
+git add .
+git push -u origin main
+git status
+git push origin main
+git remote set-url origin git@github.com:samsul51talk/Gittestnew.git
+git add .
+git pull origin main
+git push origin main
+exit
