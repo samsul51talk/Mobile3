@@ -80,3 +80,29 @@ ls
 exit
 git status
 exit
+ssh-add gittestnew
+ssh-add -l
+cp gittestnew.pub /storage
+cat gittestnew.pub
+ssh -T git@github.com
+git push origin main
+ls
+mkdir telpon
+git status
+git add telpon
+git commit -m "tambahan file"
+git add .
+git commit -m "tambahan file"
+git push origin main
+git branch origin main
+git add .
+git push -u origin main
+git push origin main
+git status
+git commit -m "ada perubahan"
+git status
+git push origin main
+git add .
+git commit -m "ada perubahan"
+git push origin main
+exit
